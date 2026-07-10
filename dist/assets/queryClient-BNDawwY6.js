@@ -1,0 +1,1 @@
+import{q as t}from"./queryKeys-D5ON2bmz.js";import{ar as i}from"./index-D5Qf0bqd.js";const s=600*1e3,r=600*1e3,a=new i({defaultOptions:{queries:{staleTime:s,gcTime:r,refetchOnWindowFocus:!1,retry:1}}}),l=e=>e.invalidateQueries({queryKey:t.clientsRoot()});export{s as S,l as i,a as q};

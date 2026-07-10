@@ -1,0 +1,1 @@
+import{j as t,Q as r,O as e}from"./index-D5Qf0bqd.js";import{q as i}from"./queryClient-BNDawwY6.js";import"./queryKeys-D5ON2bmz.js";function l(){return t.jsx(r,{client:i,children:t.jsx(e,{})})}export{l as default};
