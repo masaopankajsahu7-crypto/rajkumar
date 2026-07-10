@@ -1,0 +1,1 @@
+const l={users:(s=1)=>["users",s],clientsRoot:()=>["clients"],clients:(s=1,e={})=>["clients",s,e],client:s=>["clients",s],clientPortfolios:s=>["clients",s,"portfolios"],clientOpportunities:s=>["clients",s,"opportunities"],similarClients:s=>["clients","similar",s],userBySap:s=>["userBySap",s],roles:s=>["roles",s],kdsOptions:(s,e,i,t="")=>["kds",s,e,i,t]};export{l as q};
