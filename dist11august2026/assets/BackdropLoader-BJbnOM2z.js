@@ -1,0 +1,1 @@
+import{j as a,ar as o,d as s,a8 as e,T as p}from"./index-CtZHuPkV.js";const d=({loading:r})=>a.jsx(o,{className:"app-backdrop-loader",open:r,children:a.jsxs(s,{className:"app-backdrop-loader__content",children:[a.jsx(e,{color:"inherit"}),a.jsx(p,{variant:"h6",className:"app-backdrop-loader__text",children:"Loading..."})]})});export{d as B};
