@@ -1,1 +1,0 @@
-const a=new Set(["id","uuid","pan","cin","gstin","gst","tin","lob","sap"]),s=t=>String(t??"").replace(/([a-z0-9])([A-Z])/g,"$1 $2").split(/[_\-\s]+/).filter(Boolean).map(e=>a.has(e.toLowerCase())?e.toUpperCase():e.charAt(0).toUpperCase()+e.slice(1).toLowerCase()).join(" "),n=(t,e={})=>e[t]??s(t);export{n as f};
