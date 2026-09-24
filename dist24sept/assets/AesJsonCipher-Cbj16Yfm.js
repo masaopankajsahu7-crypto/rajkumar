@@ -1,0 +1,1 @@
+import{j as s}from"./index-foeyylw9.js";const a=()=>s.jsx("div",{className:"aes-json-cipher-page",children:s.jsx("iframe",{className:"aes-json-cipher-frame",src:"/aes-json-cipher.html",title:"AES-256 JSON Cipher"})});export{a as default};
