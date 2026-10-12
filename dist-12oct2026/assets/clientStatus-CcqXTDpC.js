@@ -1,0 +1,1 @@
+const n=t=>String(t??"").trim().toLowerCase(),r=t=>n(t)==="approved",s=t=>{const e=n(t);return e==="approved"?"client-mgmt-status--approved":e==="rejected"?"client-mgmt-status--rejected":e==="pending"?"client-mgmt-status--pending":"client-mgmt-status--default"};export{s as g,r as i};
